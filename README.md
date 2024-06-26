@@ -32,3 +32,10 @@ Calls save_emails_to_csv(emails, 'emails.csv') to save them to a CSV file.
 
 📋 Example
 To scrape emails from https://www.example.com and save them to emails.csv:
+
+
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Feel free to reach out if you have any questions or suggestions! Happy scraping! 🎉
